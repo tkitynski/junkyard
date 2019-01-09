@@ -1,2 +1,2 @@
 # junkyard
-Repo for testing new interesting---or boring---stuff.
+Repo for testing new interesting&mdash;or boring&mdash;stuff.
